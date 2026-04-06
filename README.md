@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Mahika, and I'm here to combine Design and Engineering together to make the impossible, possible. I'm currently looking for full-time job opportunities in product design! 
 
 <!--
 **mahikashah/mahikashah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
