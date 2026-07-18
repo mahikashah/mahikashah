@@ -1,5 +1,11 @@
 ## Hi there 👋
-My name is Mahika, and I'm here to combine Design and Engineering together to make the impossible, possible. I'm currently looking for full-time job opportunities in product design! 
+My name is Mahika, and I'm an aspiring Product Designer graduating from UC Merced in December 2026 with a B.S. in Computer Science & Engineering. I design end-to-end, then build it myself when I have to.
+ 
+I design for real people in situations existing technology has ignored. For Alzheimer's patients, I designed a therapeutic smart object grounded in caregiver interviews and observational research, not just an interface, but an object people trust enough to use every day. Most recently, I'm building Calibrate for Hack Your Summer, an AI study coach that replaces generic advice and debunks ideas like "learning styles" with methods backed by actual research: active recall, spaced repetition, practice problems, and the Feynman technique. Students test techniques, track real outcomes, and get recommendations grounded in their own performance data, not guesswork.
+
+I'm looking for full-time Product Design or UX Design roles starting in December 2026, ideally somewhere that values designers who understand what's technically possible. If you're building something that needs someone who can design it and speak fluently to engineering, I'd love to talk.
+
+
 
 <!--
 **mahikashah/mahikashah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
