@@ -1,10 +1,13 @@
 ## Hi there 👋
-My name is Mahika, and I'm an aspiring Product Designer graduating from UC Merced in December 2026 with a B.S. in Computer Science & Engineering. I design end-to-end, then build it myself when I have to.
+I'm a Product Designer graduating from UC Merced in December 2026 with a B.S. in Computer Science & Engineering. I design end-to-end, then build it myself when I have to.
+
+I design for real people in situations existing technology has ignored. For Alzheimer's patients, I designed a therapeutic smart object grounded in caregiver interviews and observational research: not just an interface, but an object people trust enough to use every day. Most recently, I'm building Calibrate for Hack Your Summer, an AI study coach that replaces generic advice and debunks ideas like "learning styles" with methods backed by actual research: active recall, spaced repetition, practice problems, the Feynman technique. Students test techniques, track real outcomes, and get recommendations grounded in their own performance data, not guesswork.
+
+I code when it strengthens the design: React Native, Flutter, TypeScript, and the OpenAI API. I built my own portfolio from scratch, shipped products on iOS and Android, and built design systems used across multiple device types.
  
-I design for real people in situations existing technology has ignored. For Alzheimer's patients, I designed a therapeutic smart object grounded in caregiver interviews and observational research, not just an interface, but an object people trust enough to use every day. Most recently, I'm building Calibrate for Hack Your Summer, an AI study coach that replaces generic advice and debunks ideas like "learning styles" with methods backed by actual research: active recall, spaced repetition, practice problems, and the Feynman technique. Students test techniques, track real outcomes, and get recommendations grounded in their own performance data, not guesswork.
+I also work closely on product strategy (prioritization, roadmap trade-offs, scoping), not just interfaces, from leading Calibrate's product direction end-to-end to a PM externship with BeReal. Previously a UX Designer and Frontend Engineer Intern at GotGame. Previously, founding team at Owting, where I led onboarding design for an iOS and Android MVP from research through launch.
 
-I'm looking for full-time Product Design or UX Design roles starting in December 2026, ideally somewhere that values designers who understand what's technically possible. If you're building something that needs someone who can design it and speak fluently to engineering, I'd love to talk.
-
+I'm looking for full-time Product Design roles starting December 2026, ideally somewhere that values designers who understand what's technically possible and can think in product strategy, not just interfaces. If you're building something that needs someone who can design it, speak fluently to engineering, and reason about the roadmap, I'd love to talk.
 
 
 <!--
