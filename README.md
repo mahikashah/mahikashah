@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Product Designer graduating from UC Merced in December 2026 with a B.S. in Computer Science & Engineering. I design end-to-end, then build it myself when I have to.
+I'm a Product Builder graduating from UC Merced in December 2026 with a B.S. in Computer Science & Engineering. I design end-to-end, then build it myself when I have to.
 
 I design for real people in situations existing technology has ignored. For Alzheimer's patients, I designed a therapeutic smart object grounded in caregiver interviews and observational research: not just an interface, but an object people trust enough to use every day. Most recently, I'm building Calibrate for Hack Your Summer, an AI study coach that replaces generic advice and debunks ideas like "learning styles" with methods backed by actual research: active recall, spaced repetition, practice problems, the Feynman technique. Students test techniques, track real outcomes, and get recommendations grounded in their own performance data, not guesswork.
 
