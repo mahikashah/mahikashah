@@ -2,12 +2,11 @@
 I'm an aspiring Product Manager graduating from UC Merced in December 2026 with a B.S. in Computer Science & Engineering. I design end-to-end, then build it myself when I have to.
 
 - 🌱 Prev Product Management Extern @ BeReal (Via Extern)
-- 🌱 Prev Product Designer @ Hack Your Summer
+- 🌱 Prev Product Manager @ Hack Your Summer
 - 🌱 Prev UX Engineer & Product Manager Intern @ GotGame
 - 🌱 Prev Fullstack Engineer Intern @ Owting
 
-I'm looking for full-time Product Design and management roles starting December 2026, ideally somewhere that values designers who understand what's technically possible and can think in product strategy, not just interfaces. If you're building something that needs someone who can design it, speak fluently to engineering, and reason about the roadmap, I'd love to talk.
-
+I'm looking for full-time Product Management roles starting December 2026, ideally somewhere that values software engineers who understand what's technically possible and can think in product strategy, not just interfaces. If you're building something that needs someone who can design it, speak fluently to engineering, and reason about the roadmap, I'd love to talk.
 
 <!--
 **mahikashah/mahikashah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
